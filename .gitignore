@@ -1,4 +1,5 @@
 .vscode
-
+._*
 a.out
 *.swp
+.DS_store
