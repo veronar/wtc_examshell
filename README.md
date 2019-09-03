@@ -1,8 +1,10 @@
 # **Examshell**
 
-WeThinkCode_ cohort 2019 (JHB)__
-42 Piscine__
-C - Alone in the Dark__
+WeThinkCode_ cohort 2019 (JHB)
+
+42 Piscine
+
+C - Alone in the Dark
 
 ### **Description**
 
