@@ -1,10 +1,7 @@
 # **Examshell**
 
-WeThinkCode_ cohort 2019 (JHB)
-
-42 Piscine
-
-C - Alone in the Dark
+WeThinkCode_ cohort 2019 (JHB)  
+C - Alone in the Dark (42 Piscine)
 
 ### **Description**
 
@@ -33,11 +30,10 @@ https://trello.com/b/WIOis4bQ/examshell-wethinkcode
 - sort_int_tab
 
 **Level 05**
-
 - biggest_pal
 - brackets
 - check_mate
 - cycle_detector
 - options
 
-### **May the code be in your favour**
+### **May the code be with you**
