@@ -15,28 +15,29 @@ https://trello.com/b/WIOis4bQ/examshell-wethinkcode
 ### **Content**
 
 **Level 00**
--aff_first_param
+- aff_first_param
 
 **Level 01**
--repeat_alpha
+- repeat_alpha
 
 **Level 02**
--ft_strcmp
+- ft_strcmp
 
 **Level 03**
--str_capitalizer
+- str_capitalizer
 
 **Level 04**
--flood_fill
--ft_itoa
--rev_wstr
--sort_int_tab
+- flood_fill
+- ft_itoa
+- rev_wstr
+- sort_int_tab
 
 **Level 05**
--biggest_pal
--brackets
--check_mate
--cycle_detector
--options
+
+- biggest_pal
+- brackets
+- check_mate
+- cycle_detector
+- options
 
 ### **May the code be in your favour**
