@@ -6,7 +6,7 @@ C - Alone in the Dark (42 Piscine)
 ### **Description**
 
 This project is based on **examshell** levels.  
-Found great use in Trello board set up by cohort 2018:
+Found great use in Trello board set up by cohort 2018:  
 https://trello.com/b/WIOis4bQ/examshell-wethinkcode
 
 ### **Content**
